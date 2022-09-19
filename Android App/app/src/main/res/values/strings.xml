@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Traffic</string>
+    <string name="textview">TextView</string>
+    <string name="time">TIME</string>
+    <string name="date">DATE</string>
+    <string name="check">Check</string>
+    <string name="traffic_flow">Traffic Flow</string>
+    <string name="average">AVERAGE</string>
+</resources>
